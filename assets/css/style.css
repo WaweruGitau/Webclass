@@ -1,0 +1,17 @@
+.fruits{
+    border: aqua 2px solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: aliceblue;
+
+}
+
+.cars{
+    border: chocolate 2px solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: beige;
+    text-align: end;
+    color: cornflowerblue;
+
+}
